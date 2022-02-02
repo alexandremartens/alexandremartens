@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Web3, Solidity, JS, ReactJS
-- 💞️ I’m looking to collaborate on blockchain projecta
+- 🌱 I’m currently learning Web3 and solidity, NoSQL and database interactions
+- ✓ I have experience in Java, Python, ReactJS, Firebase, HTML, JS and Solidity
+- 💞️ Currently working on a blockchain voting project
