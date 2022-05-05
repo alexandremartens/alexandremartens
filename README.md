@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning Web3 and AWS
-- 💼 I have experience in Java, Python, ReactJS, HTML, JS, Solidity, Firebase, AWS: Lambda, API Gateway, DynamoDB & Amplify.
+- 💼 I have experience in Java, Python, ReactJS, HTML, JS, Solidity, Firebase and a big chunk of the AWS ecosystem.
 - 💞️ Currently working on a decentralised blockchain voting project
